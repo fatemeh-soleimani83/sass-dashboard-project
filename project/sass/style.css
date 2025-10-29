@@ -1,0 +1,23 @@
+aside {
+  height: 100vh;
+  background-color: #222;
+  color: #f2f2f2 bg-body;
+}
+
+.gadgets {
+  padding: 15px;
+  height: 300px;
+}
+
+#table {
+  max-width: 700px;
+}
+
+@media (max-width: 700px) {
+  aside {
+    height: 25vh;
+  }
+  gadgets {
+    height: 25vh;
+  }
+}/*# sourceMappingURL=style.css.map */
